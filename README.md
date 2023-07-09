@@ -1,4 +1,4 @@
-# I'm Michael    <img src="https://www.icegif.com/wp-content/uploads/2023/02/icegif-519.gif" alt="Nyan Cat" width="250" height="150" style="vertical-align:middle">
+# Hello I'm Michael    <img src="https://www.icegif.com/wp-content/uploads/2023/02/icegif-519.gif" alt="Nyan Cat" width="250" height="150" style="vertical-align:middle">
 ## About Me  
 
 - 🎓 I’m currently learning Software Engineering (B.Sc.) at ORT Braude College.   
