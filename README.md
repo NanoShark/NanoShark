@@ -12,7 +12,7 @@
   
   <img src="https://user-images.githubusercontent.com/66797449/179539867-f24505fc-5848-4c23-b47b-78475851aec2.svg" alt="Java" width="30" height="40">
   <img src="https://user-images.githubusercontent.com/66797449/179539964-66b7b78f-3d63-493a-9bdd-6b048f7faaac.svg" alt="MySQL" width="30" height="40">
-  <img src="https://user-images.githubusercontent.com/66797449/179608597-7d07727b-ec72-49ee-9d57-793d364dabfe.svg" alt="JavaScript" width="30" height="40">
+  
 </p>
 
 ## Tools
