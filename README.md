@@ -38,7 +38,7 @@ the badges
 
 ⚡ Solving problems on GeeksforGeeks and staying updated with tech articles in my free time.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michaelmalka/) [![Gmail Badge](https://img.shields.io/badge/-gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mickael266@gmail.com)
+:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michaelmalka/) [![Gmail Badge](https://img.shields.io/badge/-gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mickael266@gmail.com)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
