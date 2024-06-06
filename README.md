@@ -32,8 +32,6 @@ the badges
 ### :man_technologist: About Me :
 🎓 Fourth-year Software Engineering Student from Israel 🇮🇱. <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTl1OWUzaHlsbHp5eGZ1cXRybGphYWZobmpuem5paGV3cm1rbTE2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="50">
 
-🔭 Contributing to frontend and backend development.
-
 📝 Exploring Technical Content Writing.
 
 ⚡ Solving problems on GeeksforGeeks and staying updated with tech articles in my free time.
