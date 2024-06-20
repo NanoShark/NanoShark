@@ -32,9 +32,7 @@ the badges
 ### :man_technologist: About Me :
 🎓 Fourth-year Software Engineering Student from Israel 🇮🇱. <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTl1OWUzaHlsbHp5eGZ1cXRybGphYWZobmpuem5paGV3cm1rbTE2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="50">
 
-📝 Exploring Technical Content Writing.
-
-⚡ Solving problems on GeeksforGeeks and staying updated with tech articles in my free time.
+⚡ Solving problems on Leetcode and staying updated with tech articles in my free time.
 
 :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michaelmalka/) [![Gmail Badge](https://img.shields.io/badge/-gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mickael266@gmail.com)
 
