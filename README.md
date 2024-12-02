@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXF2bzl3M3lmZXJucjZtbm41OW91YzZkMGg4cGd6YTQ3Z2t5cTNnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dEvfJaOEzxl9AUSzHP/giphy.gif" width="150"/>
+  <!--<img src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXF2bzl3M3lmZXJucjZtbm41OW91YzZkMGg4cGd6YTQ3Z2t5cTNnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dEvfJaOEzxl9AUSzHP/giphy.gif" width="150"/> -->
 </div>
 <!--
 the badges
@@ -68,6 +68,7 @@ the badges
     <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="unrealengine"  alt="Unrealengine" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height=40/>&nbsp;
 </div>
 
 
