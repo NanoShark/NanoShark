@@ -70,6 +70,10 @@ the badges
     <img src= "https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="ubuntu" alt="ubuntu" width="40" height=40/>&nbsp;
     <img src= "https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height=40/>&nbsp;
     <img src= "https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height=40/>&nbsp;
+    <img src= "https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height=40/>&nbsp;
+    <img src= "https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="kubernetes" alt="kubernetes" width="40" height=40/>&nbsp;
+    <img src= "https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="jenkins" alt="jenkins" width="40" height=40/>&nbsp;
+    <img src= "https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original.svg" title="argocd" alt="argocd" width="40" height=40/>&nbsp;
 
   
 </div>
