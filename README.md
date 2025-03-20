@@ -91,9 +91,10 @@ I'm currently expanding my expertise in cloud infrastructure and DevOps practice
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NanoShark&theme=dark&background=000000)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=NanoShark&theme=dark&background=000000)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NanoShark&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NanoShark&layout=compact&theme=vision-friendly-dark&hide_border=true)
+
 
 ## 📫 Get In Touch
 
@@ -107,3 +108,6 @@ I'm open to collaboration opportunities, technical discussions, and connecting w
 <div align="center">
   <i>⭐️ From <a href="https://github.com/NanoShark">NanoShark</a></i>
 </div>
+
+---
+![GitHub followers](https://img.shields.io/github/followers/NanoShark?style=social)
