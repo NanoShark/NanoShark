@@ -77,17 +77,32 @@ I'm currently expanding my expertise in cloud infrastructure and DevOps practice
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
 </div>
 
-## 🚀 Featured Projects
+## 🚀 **Featured Projects**
 
-### [Project Name 1]
-- **Description:** Brief description of the project and your role
-- **Technologies:** List of key technologies used
-- **Link:** [View Project](project-link)
+### 🏥 [Navigating Neurological Realms – Early Parkinson's Detection Using VR](https://github.com/NanoShark/Navigating-Neurological-Realms)
+- **Description:** Developed a **VR diagnostic tool** that analyzes hand movement asymmetry to detect **early symptoms of Parkinson’s disease**.
+- **Key Contributions:**
+  - Created an immersive **VR simulation** in Unity.
+  - Processed **hand movement data** to provide insights for early diagnosis.
+  - Integrated **C# and Python** for data tracking and analysis.
+- **Technologies Used:** Unity, C#, Python
 
-### [Project Name 2]
-- **Description:** Brief description of the project and your role
-- **Technologies:** List of key technologies used
-- **Link:** [View Project](project-link)
+---
+
+### 📈 [Stock Tracking App – Real-Time Market Insights](https://github.com/NanoShark/StockTrackerAppAlphaApi)
+- **Description:** Built a **real-time stock tracking app** that fetches financial data, allowing users to monitor stocks, perform historical analysis, and manage watchlists.
+- **Key Contributions:**
+  - Integrated **Alpha Vantage API** for real-time stock data retrieval.
+  - Developed a **smooth UI/UX** in **Android Studio (Java)**.
+  - Implemented **optimized data retrieval** to avoid API rate limiting.
+- **Technologies Used:** Java (Android Studio), Alpha Vantage API
+
+
+<!-- ## 📌 Pinned Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NanoShark&repo=k8s-helm&theme=vision-friendly-dark)](https://github.com/NanoShark/k8s-helm)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NanoShark&repo=cicd-automation&theme=vision-friendly-dark)](https://github.com/NanoShark/cicd-automation) -->
+
 
 ## 📈 GitHub Stats
 
