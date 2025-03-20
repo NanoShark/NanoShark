@@ -1,82 +1,109 @@
-<div id="header" align="center">
-  <!--<img src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXF2bzl3M3lmZXJucjZtbm41OW91YzZkMGg4cGd6YTQ3Z2t5cTNnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dEvfJaOEzxl9AUSzHP/giphy.gif" width="150"/> -->
-</div>
-<!--
-the badges
--->
-<div id="badges" align="center">
-  <a herf="https://www.linkedin.com/in/michaelmalka/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <!--
-  need to make my resume in the web
-  <a herf="https://www.linkedin.com/in/michaelmalka/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  -->
-  
-</div>
-
-<div id="profile viewer" align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-</div>
-<h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+# Michael Malka | Software Engineer
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="200"/>
+  <img src="https://img.shields.io/badge/Software_Engineer-Full_Stack_Developer-blue?style=for-the-badge" alt="Software Engineer - Full Stack Developer"/>
+  <br>
+  <a href="https://www.linkedin.com/in/michaelmalka/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:michael.malka.swe@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=NanoShark&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
-### :man_technologist: About Me :
-🎓 Software Engineering Graduate from Israel 🇮🇱. <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTl1OWUzaHlsbHp5eGZ1cXRybGphYWZobmpuem5paGV3cm1rbTE2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="50">
+## 👨‍💻 About Me
 
-⚡ Solving problems on Leetcode and staying updated with tech articles in my free time.
+I'm a **Software Engineering Graduate** from Israel with a passion for building efficient, scalable solutions to complex problems. My technical journey is driven by continuous learning and applying best practices in software development.
 
-:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michaelmalka/) [![Gmail Badge](https://img.shields.io/badge/-gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:michael.malka.swe@gmail.com)
+- 🔭 **Currently working on:** [Your current project or focus area]
+- 🌱 **Currently learning:** Cloud infrastructure, DevOps practices, and expanding my knowledge in containerization
+- 💬 **Ask me about:** Software architecture, problem-solving strategies, and optimization techniques
+- ⚡ **Fun fact:** I solve problems on LeetCode and stay updated with tech articles in my free time
 
-### :hammer_and_wrench: Languages and Tools :
+## 🛠️ Technical Skills
+
+### Programming Languages
 <div>
- <!--
- Spring Boot
- <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
- -->
-  
-   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python"  alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp"  alt="Csharp" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="unity"  alt="Unity" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode"  alt="vscode" width="40" height="40"/>&nbsp;
-  
-
-
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
 </div>
 
-### :books: Currently Learning:
-<div>  
-    <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height=40/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="40" height=40/>&nbsp;
-    <img src= "https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="ubuntu" alt="ubuntu" width="40" height=40/>&nbsp;
-    <img src= "https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height=40/>&nbsp;
-    <img src= "https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height=40/>&nbsp;
-    <img src= "https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height=40/>&nbsp;
-    <img src= "https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="kubernetes" alt="kubernetes" width="40" height=40/>&nbsp;
-    <img src= "https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="jenkins" alt="jenkins" width="40" height=40/>&nbsp;
-    <img src= "https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original.svg" title="argocd" alt="argocd" width="40" height=40/>&nbsp;
-    <img src= "https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" title="azure-devops" alt="azure-devops" width="40" height=40/>&nbsp;
-<img src= "https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="amazonwebservices" alt="amazonwebservices" width="40" height=40/>&nbsp;
-  
+### Web Development
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 </div>
 
+### Databases
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+</div>
 
-### :fire: My Stats :
+### Tools & Environments
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
+</div>
+
+## 📚 Professional Development
+
+I'm currently expanding my expertise in cloud infrastructure and DevOps practices:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original.svg" title="ArgoCD" alt="ArgoCD" width="40" height="40"/>&nbsp;
+</div>
+
+### Cloud Platforms
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" title="Azure DevOps" alt="Azure DevOps" width="40" height="40"/>&nbsp;
+</div>
+
+### Linux & System Administration
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
+</div>
+
+## 🚀 Featured Projects
+
+### [Project Name 1]
+- **Description:** Brief description of the project and your role
+- **Technologies:** List of key technologies used
+- **Link:** [View Project](project-link)
+
+### [Project Name 2]
+- **Description:** Brief description of the project and your role
+- **Technologies:** List of key technologies used
+- **Link:** [View Project](project-link)
+
+## 📈 GitHub Stats
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NanoShark&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NanoShark&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NanoShark&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📫 Get In Touch
+
+I'm open to collaboration opportunities, technical discussions, and connecting with fellow developers. Feel free to reach out via:
+
+- **LinkedIn:** [michaelmalka](https://www.linkedin.com/in/michaelmalka/)
+- **Email:** [michael.malka.swe@gmail.com](mailto:michael.malka.swe@gmail.com)
+
+---
+
+<div align="center">
+  <i>⭐️ From <a href="https://github.com/NanoShark">NanoShark</a></i>
+</div>
