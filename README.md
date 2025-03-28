@@ -1,9 +1,8 @@
-# Michael Malka | Software Engineer
+# Michael Malka | Software Engineer | DevOps Engineer
 
 ![GitHub followers](https://img.shields.io/github/followers/NanoShark?style=social)
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Software_Engineer-Full_Stack_Developer-blue?style=for-the-badge" alt="Software Engineer - Full Stack Developer"/>
   <br>
   <a href="https://www.linkedin.com/in/michaelmalka/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
